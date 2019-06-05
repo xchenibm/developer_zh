@@ -1,4 +1,4 @@
-##IBM Developer Feedback in Chinese##
+## IBM Developer Feedback in Chinese ##
 
 Use this repository to ask questions or leave feedback about IBM Developer and its content, community, and various initiatives offered in Simplified Chinese.
 
