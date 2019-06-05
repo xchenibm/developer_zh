@@ -8,4 +8,6 @@ Note This repository is designed as a public forum for the exchange of informati
 
 Any inappropriate content will be removed immediately and the user will be reported to GitHub for further action.
 
-[Open a new Issue](https://github.com/IBM/developer_zh/issues/new)
+[Open a new issue](https://github.com/IBM/developer_zh/issues/new)
+
+[Review existing issues](https://github.com/IBM/developer_zh/issues)
